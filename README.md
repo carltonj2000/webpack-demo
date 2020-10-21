@@ -1,5 +1,8 @@
 # Webpack Demo
 
+On 2020/10/21 starting the styling section at
+https://survivejs.com/webpack/styling/
+
 The code in this repository is based on the
 [Webpack Book](https://survivejs.com/webpack).
 
